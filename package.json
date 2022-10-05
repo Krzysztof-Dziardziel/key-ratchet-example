@@ -1,0 +1,13 @@
+{
+  "name": "key-ratchet-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "@peculiar/webcrypto": "^1.4.0",
+    "2key-ratchet": "^1.0.18",
+    "pvtsutils": "^1.3.2"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  }
+}
